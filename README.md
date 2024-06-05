@@ -338,3 +338,7 @@ ________
 - Терновой Николай Эдуардович [`telegram-channel`](https://t.me/cpu_design) – презентации для лабораторных, профессиональные консультации и отработка материалов
 - Хисамов Василь Тагирович [`telegram`](https://t.me/PascalVT) – профессиональные консультации и отработка материалов
 
+Дополнительно
+https://github.com/eugene-tarassov/vivado-risc-v
+https://programmersought.com/article/256411164478/
+https://github.com/hihii11/Fly_v_for_riscv
