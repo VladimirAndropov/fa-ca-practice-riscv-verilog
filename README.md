@@ -342,3 +342,4 @@ ________
 https://github.com/eugene-tarassov/vivado-risc-v
 https://programmersought.com/article/256411164478/
 https://github.com/hihii11/Fly_v_for_riscv
+https://jlpteaching.github.io/ECS154B/modules/processor%20architecture/pipelined/
